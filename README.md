@@ -17,7 +17,7 @@ In order to complete these tasks you will need your newly aquired knowledge of c
 
 Using VSCode and Command Line:
 
-Darrion White
+
 1. Fork the repo
 2. Go into canvas and connect your reop to codegrade
 3. Clone your forked version of the repo
